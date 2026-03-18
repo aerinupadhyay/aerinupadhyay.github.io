@@ -1,2 +1,2 @@
 # aerinupadhyay.github.io
-Stay tuned for updates!
+Currently updating projects. Read more soon!
