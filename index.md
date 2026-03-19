@@ -8,8 +8,9 @@ layout: default
 style="width:150px; height:150px; max-width:40vw; aspect-ratio:1/1; border-radius:50%; object-fit:cover;">
 
 <div>
-<h1>Aerin Upadhyay</h1>
-<div style="margin-top:10px; display:flex; gap:10px; flex-wrap:wrap;">
+<h1 style="margin-bottom:5px;">Aerin Upadhyay</h1>
+
+<div style="margin-top:5px; margin-bottom:5px; display:flex; gap:10px; flex-wrap:wrap;">
 
 <a href="https://www.linkedin.com/in/agupadhyay/" target="_blank">
   <svg style="width:30px; max-width:8vw; height:auto;">
@@ -24,10 +25,12 @@ style="width:150px; height:150px; max-width:40vw; aspect-ratio:1/1; border-radiu
 </a>
 
 </div>
-<p>
+
+<p style="margin-top:0;">
 Sophomore at Cornell studying ORIE with a minor in Data Science.<br>
 Interested in data analytics, optimization, and sustainability.
 </p>
+
 </div>
 
 </div>
