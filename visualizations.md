@@ -6,4 +6,4 @@ permalink: /visualizations/
 
 # Projects
 
-Welcome! Here are some of the projects I’ve worked on.
+Welcome! Here are some of the visualizations I’ve worked on.

@@ -2,16 +2,14 @@
 layout: default
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display:flex; align-items:flex-start; gap:28px;">
 
 <img src="/assets/DSC08044.jpeg"
-style="width:150px; height:150px; max-width:40vw; aspect-ratio:1/1; border-radius:50%; object-fit:cover;">
-
+style="width:150px; height:150px; max-width:40vw; aspect-ratio:1/1; border-radius:50%; object-fit:cover; margin-left:-10px;"
 <div>
 <h1 style="margin-bottom:5px;">Aerin Upadhyay</h1>
 
-<div style="margin-top:5px; margin-bottom:5px; display:flex; gap:10px; flex-wrap:wrap;">
-
+<div style="margin:0; display:flex; gap:10px; flex-wrap:wrap;">
 <a href="https://www.linkedin.com/in/agupadhyay/" target="_blank">
   <svg style="width:30px; max-width:8vw; height:auto;">
     <use xlink:href="/assets/minima-social-icons.svg#linkedin"></use>
@@ -26,11 +24,27 @@ style="width:150px; height:150px; max-width:40vw; aspect-ratio:1/1; border-radiu
 
 </div>
 
-<p style="margin-top:0;">
+<p style="margin:4px 0 0 0; line-height:1.4;">
 Sophomore at Cornell studying ORIE with a minor in Data Science.<br>
-Interested in data analytics, optimization, and sustainability.
+Interested in data analytics, optimization, sustainability, and music streaming analytics.
 </p>
 
 </div>
 
+</div>
+
+<div style="margin-top:40px;">
+  <h3 style="margin-bottom:8px; font-size:24px;">Coursework</h3>
+
+  <p style="margin-top:0;">
+    Calculus I & II for Engineers, Linear Algebra for Engineers, Object-Oriented Programming, <br>
+    Practical Tools for Operations Research and Machine Learning, Discrete Math
+  </p>
+</div>
+
+<div style="margin-top:40px;">
+  <h3 style="margin-bottom:8px; font-size:24px;">Languages</h3>
+
+  <p style="margin-top:0;">
+    Java, Python, SQL, HTML, CSS
 </div>
