@@ -21,16 +21,7 @@ layout: default
   </div>
 
 </div>
-<a href="https://www.linkedin.com/in/agupadhyay/" target="_blank"> 
-<svg style="width:30px; height:auto; display:block;"> 
-<use xlink:href="/assets/minima-social-icons.svg#linkedin"></use> 
-</svg> 
-</a>
- <a href="https://github.com/aerinupadhyay" target="_blank">
-<svg style="width:30px; height:auto; display:block;">
-<use xlink:href="/assets/minima-social-icons.svg#github"></use>
-</svg>
-</a>
+
 
   <h3 style="margin-bottom:8px; font-size:24px;">Coursework</h3>
 
@@ -38,7 +29,7 @@ layout: default
     Calculus I & II for Engineers, Linear Algebra for Engineers, Object-Oriented Programming, <br>
     Practical Tools for Operations Research and Machine Learning, Discrete Math
   </p>
-</div>
+
 
 <div style="margin-top:40px;">
   <h3 style="margin-bottom:8px; font-size:24px;">Languages</h3>
