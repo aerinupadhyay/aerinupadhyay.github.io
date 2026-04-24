@@ -23,7 +23,7 @@ layout: default
 </div>
 
 
-  <h3 style="margin-bottom:8px; font-size:24px;">Coursework</h3>
+<h3 style="margin-top:4px; margin-bottom:8px; font-size:24px;">Coursework</h3>
 
   <p style="margin-top:0;">
     Calculus I & II for Engineers, Linear Algebra for Engineers, Object-Oriented Programming, <br>
